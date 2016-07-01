@@ -1,5 +1,5 @@
 clearvars ;
-cellSize=4;
+cellSize=4;zeazeaze
 %%using vlfeat http://www.vlfeat.org/
 run('C:\\vlfeat-0.9.20-bin.tar\\vlfeat-0.9.20\\toolbox\\vl_setup')
 srcFiles = dir('D:\happy\neg\*.png');  % the folder in which your negatif images exists
